@@ -26,4 +26,3 @@ This script is designed to **scrape book details** from the website [Books to Sc
 3. **Handles Pagination** – Moves through multiple pages automatically, scraping books from each page.  
 4. **Displays Data in Terminal** – Prints book details instantly instead of saving to a file.  
 
-Would you like me to format this properly for a README file? 🚀
